@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-plugin-false-booleans",
+  "version": "1.0.0",
+  "description": "A plugin for JSDoc to set the default values of boolean params to false by default.",
+  "main": "false-booleans.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zandaqo/jsdoc-plugin-false-booleans.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "plugin",
+    "defaults",
+    "booleans"
+  ],
+  "author": "Maga D. Zandaqo <denelxan@gmail.com> (http://maga.name)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zandaqo/jsdoc-plugin-false-booleans/issues"
+  },
+  "homepage": "https://github.com/zandaqo/jsdoc-plugin-false-booleans#readme"
+}
