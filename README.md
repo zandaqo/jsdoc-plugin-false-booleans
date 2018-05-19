@@ -2,12 +2,12 @@ This plugin for JSDoc 3 sets the default values of boolean params to `false` unl
 
 # Install
 ```
-npm i jsdoc-plugin-false-booleans
+npm i jsdoc-plugin-false-booleans -D
 ```
 and add to the list of plugins in your JSDoc configuration file:
 ```
 {
-    "plugins": ["./node_modules/jsdoc-plugin-named-defaults/false-booleans.js"]
+    "plugins": ["./node_modules/jsdoc-plugin-false-booleans/false-booleans.js"]
 }
 ```
 # Example
